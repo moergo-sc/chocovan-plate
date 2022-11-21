@@ -2,8 +2,9 @@
 A KiCad6 project for creating a choc spacing keyboard plate that is partially compatible with Minivan standard cases.
 
 ![Chocovan with MBK Convex and MCC keycaps](Chococvan-Demo.jpg?raw=true "Chocovan with MBK Convex and MCC keycaps]")
+Shown in this photo is a Chocovan demonstrator with MoErgo MBK Convex and MCC keycaps.
 
- KiCad6 is chosen as the definition platform to simplify the creation of the corresponding PCB.
+KiCad6 is chosen as the definition platform to simplify the creation of the corresponding PCB.
 
 ![KiCad6 screenshot](chocovan-plate-kicad6-screenshot.png?raw=true "KiCad6 screenshot]")
 
